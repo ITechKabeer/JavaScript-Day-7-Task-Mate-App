@@ -57,7 +57,7 @@ Users can add, edit, complete, and delete tasks with **smooth animations**,
 ---
 
 ## 📸 Preview  
-*(Add a screenshot or GIF after hosting your project on Vercel)*
+![App Preview](demo.png)
 
 ---
 
