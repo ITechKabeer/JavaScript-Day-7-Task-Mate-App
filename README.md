@@ -1,4 +1,4 @@
-# 📝 To-Do Application (JavaScript Day 7)
+# 📝 Task Mate Application (JavaScript Day 7)
 **Live Demo:** [Click Here](https://task-mate-app-by-kabeer-hussain.vercel.app)
 
 A clean and responsive **To-Do App** built using **HTML, CSS, and JavaScript**.  
