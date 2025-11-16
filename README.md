@@ -64,8 +64,8 @@ Users can add, edit, complete, and delete tasks with **smooth animations**,
 ## 🛠️ Developer Info
 👨‍💻 **Developer:** Kabeer Hussain  
 📘 **Series:** JavaScript — *30 Days, 30 Projects*  
-📆 **Day:** 7 — *To-Do App*  
-📧 **Email:** your-email@example.com  
+📆 **Day:** 7 — *Ta do App*  
+📧 **Email:** codealpha0786@gmail.com
 🔗 **GitHub:** [ITechKabeer](https://github.com/ITechKabeer)
 
 Made by Kabeer Hussain ❤️
