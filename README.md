@@ -68,4 +68,4 @@ Users can add, edit, complete, and delete tasks with **smooth animations**,
 📧 **Email:** your-email@example.com  
 🔗 **GitHub:** [ITechKabeer](https://github.com/ITechKabeer)
 
-Made with ❤️ using HTML, CSS & JavaScript
+Made by Kabeer Hussain ❤️
