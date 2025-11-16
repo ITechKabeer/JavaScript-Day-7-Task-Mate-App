@@ -64,7 +64,7 @@ Users can add, edit, complete, and delete tasks with **smooth animations**,
 ## 🛠️ Developer Info
 👨‍💻 **Developer:** Kabeer Hussain  
 📘 **Series:** JavaScript — *30 Days, 30 Projects*  
-📆 **Day:** 7 — *Ta do App*  
+📆 **Day:** 7 — *Task Mate App*  
 📧 **Email:** codealpha0786@gmail.com
 🔗 **GitHub:** [ITechKabeer](https://github.com/ITechKabeer)
 
