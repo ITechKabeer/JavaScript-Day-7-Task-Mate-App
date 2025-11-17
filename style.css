@@ -272,7 +272,7 @@ h4{
     border: none;
     border-radius: 50%;
     background-color: var(--complete-btn);
-    font-size: 16px;
+    font-size: 0px;
     font-weight: 600;
     text-align: center;
     color: #ffffff;
@@ -282,6 +282,7 @@ h4{
 .para-btn1:hover{
     background-color: var(--complete-hover);
     transform: scale(1.2);
+    font-size: 16px;
 }
 
 .para-btn2{
@@ -289,7 +290,7 @@ h4{
     border: none;
     border-radius: 50%;
     background-color: var(--edit-btn);
-    font-size: 16px;
+    font-size: 0px;
     font-weight: 600;
     text-align: center;
     color: #ffffff;
@@ -299,6 +300,7 @@ h4{
 .para-btn2:hover{
     background-color: var(--edit-hover);
     transform: scale(1.2);
+    font-size: 16px;
 }
 
 .para-btn3{
@@ -306,7 +308,7 @@ h4{
     border: none;
     border-radius: 50%;
     background-color: var(--delete-btn);
-    font-size: 16px;
+    font-size: 0px;
     font-weight: 600;
     text-align: center;
     color: #ffffff;
@@ -316,6 +318,7 @@ h4{
 .para-btn3:hover{
     background-color: var(--delete-hover);
     transform: scale(1.2);
+    font-size: 16px;
 }
 
 footer{
@@ -334,5 +337,8 @@ footer{
     }
     h4{
         font-size: 14px;
+    }
+    .para-btn1, .para-btn2, .para-btn3{
+        font-size: 16px;
     }
 }
