@@ -57,7 +57,7 @@ function completebtn(btn){
     editButton.style.cursor = "not-allowed";
     confetti({
         particleCount: 200,
-        spread: 80,
+        spread: 90,
         origin: { y: 0.6 }
     });
     winSound.play()

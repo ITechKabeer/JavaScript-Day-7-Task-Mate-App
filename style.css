@@ -75,6 +75,8 @@ body{
     align-items: center;
     justify-content: center;
     background-color: var(--main-bg);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
     color: var(--main-color);
     box-shadow: 0 4px 30px var(--main-boxshadow); 
     border: none;
