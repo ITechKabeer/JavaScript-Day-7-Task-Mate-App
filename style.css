@@ -218,7 +218,7 @@ h4{
   10%  { opacity: 1; }
   30%  { left: 100%; opacity: 1; }
   40%  { opacity: 0; }
-  100% { left: 100%; opacity: 0; } /* Remaining time = delay */
+  100% { left: 100%; opacity: 0; } 
 }
 
 .submit:hover{
